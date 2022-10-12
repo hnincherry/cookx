@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Group_13664" data-name="Group 13664" transform="translate(-214 -768)">
+    <g id="Path_17447" data-name="Path 17447" transform="translate(214 768)" fill="none">
+      <path d="M4,0H16a4,4,0,0,1,4,4V16a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" stroke="none"/>
+      <path d="M 4 1 C 2.345790863037109 1 1 2.345790863037109 1 4 L 1 16 C 1 17.65420913696289 2.345790863037109 19 4 19 L 16 19 C 17.65420913696289 19 19 17.65420913696289 19 16 L 19 4 C 19 2.345790863037109 17.65420913696289 1 16 1 L 4 1 M 4 0 L 16 0 C 18.20914077758789 0 20 1.790859222412109 20 4 L 20 16 C 20 18.20914077758789 18.20914077758789 20 16 20 L 4 20 C 1.790859222412109 20 0 18.20914077758789 0 16 L 0 4 C 0 1.790859222412109 1.790859222412109 0 4 0 Z" stroke="none" fill="#707070"/>
+    </g>
+    <g id="Path_17446" data-name="Path 17446" transform="translate(218 771)" fill="none">
+      <path d="M1,0H11a1,1,0,0,1,1,1V5a1,1,0,0,1-1,1H1A1,1,0,0,1,0,5V1A1,1,0,0,1,1,0Z" stroke="none"/>
+      <path d="M 1 1 L 1 5 L 11 5 L 11 1 L 1 1 M 1 0 L 11 0 C 11.55228042602539 0 12 0.4477200508117676 12 1 L 12 5 C 12 5.552279949188232 11.55228042602539 6 11 6 L 1 6 C 0.4477100372314453 6 0 5.552279949188232 0 5 L 0 1 C 0 0.4477200508117676 0.4477100372314453 0 1 0 Z" stroke="none" fill="#707070"/>
+    </g>
+    <path id="Path_17445" data-name="Path 17445" d="M0,0H11" transform="translate(218.5 780)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1.5"/>
+    <path id="Path_17444" data-name="Path 17444" d="M0,0H11" transform="translate(218.5 783)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1.5"/>
+  </g>
+</svg>

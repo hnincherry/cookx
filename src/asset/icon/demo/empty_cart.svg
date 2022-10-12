@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100.333" height="87" viewBox="0 0 100.333 87">
+  <g id="empty-cart" transform="translate(1 1)">
+    <path id="Path_9332" data-name="Path 9332" d="M20.667,34.333A4.333,4.333,0,1,1,16.333,30,4.333,4.333,0,0,1,20.667,34.333Z" transform="translate(19.833 44.833)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    <path id="Path_9338" data-name="Path 9338" d="M20.667,34.333A4.333,4.333,0,1,1,16.333,30,4.333,4.333,0,0,1,20.667,34.333Z" transform="translate(36.667 1.667)"/>
+    <path id="Path_9339" data-name="Path 9339" d="M20.667,34.333A4.333,4.333,0,1,1,16.333,30,4.333,4.333,0,0,1,20.667,34.333Z" transform="translate(54.667 1.667)"/>
+    <path id="Path_9333" data-name="Path 9333" d="M37.167,34.333A4.333,4.333,0,1,1,32.833,30,4.333,4.333,0,0,1,37.167,34.333Z" transform="translate(51 44.833)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    <path id="Path_9334" data-name="Path 9334" d="M1.5,1.5H18.833L30.447,59.523A8.667,8.667,0,0,0,39.113,66.5h42.12A8.667,8.667,0,0,0,89.9,59.523l6.933-36.357H23.167" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    <path id="Path_9335" data-name="Path 9335" d="M0,0S5.805-3.911,11.188-3.911,21.533,0,21.533,0" transform="translate(50.888 55)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3"/>
+  </g>
+</svg>

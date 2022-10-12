@@ -1,0 +1,45 @@
+// prettier-ignore
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",     /* Recommended React Native TSConfig base */
+  "compilerOptions": {
+    /* Visit https://aka.ms/tsconfig.json to read more about this file */
+
+    "strict": true,
+    "baseUrl": "src",
+    "paths": {
+      "@asset/*": ["asset/*"],
+      "@components/*": ["components/*"],
+      "@controller/*": ["controller/*"],
+      "@data/*": ["data/*"],
+      "@hook/*": ["hook/*"],
+      "@key/*": ["key/*"],
+      "@navigation/*": ["navigation/*"],
+      "@screen/*": ["screen/*"],
+      "@service/*": ["service/*"],
+      "@store/*": ["store/*"],
+      "@actions/*": ["store/actions/*"],
+      "@theme/*": ["theme/*"],
+      "@utils/*": ["utils/*"]
+    },
+    
+    /* Completeness */
+    "skipLibCheck": true,                                 /* Skip type checking all .d.ts files. */
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "jsx": "react-native",
+    "lib": ["es2017"],
+    "types": ["react-native", "jest", "node"],
+    "moduleResolution": "node",
+    "noEmit": true,
+    "target": "esnext",                              /* Skip type checking all .d.ts files. */
+    "typeRoots": [ "../node_modules/types"]
+  },
+  "exclude": [
+    "node_modules",
+    "babel.config.js",
+    "metro.config.js",
+    "jest.config.js"
+  ],
+}
