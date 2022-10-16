@@ -8,8 +8,9 @@ import { HomeScreen } from '@screen/home'
 import { FavoritesScreen } from '@screen/favorites'
 import { ExploreScreen } from '@screen/explore'
 import { ProfileScreen } from '@screen/account'
+import { DetailScreen } from '@screen/detail';
 import { FooterCom, IconCom } from 'components'
-// import Icon from 'asset/icon/luxura'
+
 
 const Tab: any = createBottomTabNavigator()
 const Stack: any = createNativeStackNavigator()
@@ -18,7 +19,8 @@ const AppScreens = {
     HomeScreen,
     FavoritesScreen,
     ExploreScreen,
-    ProfileScreen
+    ProfileScreen,
+    DetailScreen
 }
 
 const AppStackNavigator = () => {

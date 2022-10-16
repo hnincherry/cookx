@@ -11,7 +11,7 @@ type IconComProps = {
   style?: any,
   onPress?: () => void
 }
-export const IconCom: React.FC<IconComProps> = (props:any) => <Icon size={25} {...props} />
+export const IconCom: React.FC<IconComProps> = (props:any) => <Icon size={props.iconsize ? props.iconsize : 25} {...props} />
 
 IconCom.defaultProps = {
   type: 'MaterialIcons'
